@@ -1,7 +1,11 @@
 
 ## WHAT DOES THE BOT DO?
 
-It updates your bot status periodically with players of server. If you own some game server such as rust or the isle, use the bot to show real time server data on your bot.
+If you own some game server such as rust or the isle, use the bot to show real time server data on your bot.It updates your bot status periodically with players of server.
+
+## Video tutorial
+
+Wanna see how bot works actually? Watch the video on my [Twitter]() or [Linkedin]() or [Facebook]().
 
 ## Installation
 
